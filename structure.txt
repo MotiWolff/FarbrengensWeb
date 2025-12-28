@@ -1,0 +1,42 @@
+src/
+│
+├── components/                    # קומפוננטות React
+│   ├── layout/                   # קומפוננטות של המבנה הבסיסי
+│   │   ├── Layout.js            # קומפוננטת המבנה הראשי
+│   │   ├── Sidebar.js           # תפריט צד
+│   │   └── Footer.js            # כותרת תחתונה
+│   │
+│   ├── auth/                     # קומפוננטות אותנטיקציה
+│   │   ├── Login.js             # טופס התחברות
+│   │   ├── Register.js          # טופס הרשמה
+│   │   └── ResetPassword.js     # טופס איפוס סיסמה
+│   │
+│   ├── farbrengens/             # קומפוננטות התוועדויות
+│   │   ├── FarbrengensGrid.js   # תצוגת רשת של התוועדויות
+│   │   └── FarbrengensCard.js   # כרטיס התוועדות בודד
+│   │
+│   └── admin/                    # קומפוננטות ניהול
+│       ├── Dashboard.js         # לוח בקרה
+│       └── UserManagement.js    # ניהול משתמשים
+│
+├── contexts/                     # React Contexts
+│   └── AuthContext.js           # ניהול מצב המשתמש
+│
+├── services/                     # שירותים ו-API
+│   ├── api.js                   # הגדרות בסיסיות ל-API
+│   ├── auth.service.js          # שירותי אותנטיקציה
+│   └── farbrengen.service.js    # שירותי התוועדויות
+│
+├── utils/                        # פונקציות עזר
+│   ├── constants.js             # קבועים
+│   └── helpers.js               # פונקציות עזר כלליות
+│
+├── App.js                        # קומפוננטת הבסיס
+├── App.css                       # סגנונות לקומפוננטת הבסיס
+├── index.js                      # נקודת הכניסה לאפליקציה
+├── index.css                     # סגנונות גלובליים
+└── reportWebVitals.js           # מדידת ביצועים
+
+
+6ivRpWW1A407DMB4
+

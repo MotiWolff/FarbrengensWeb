@@ -1,0 +1,65 @@
+############################
+# Dependencies
+############################
+node_modules/
+
+############################
+# Build outputs
+############################
+# Frontend
+build/
+dist/
+out/
+.next/
+.vite/
+storybook-static/
+
+# Backend / tooling
+coverage/
+.turbo/
+
+############################
+# Environment variables
+############################
+.env
+.env.*
+!.env.example
+
+############################
+# Logs
+############################
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+############################
+# Caches
+############################
+.cache/
+.parcel-cache/
+.eslintcache
+
+############################
+# OS files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Editor files
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############################
+# Docker
+############################
+docker-data/
+
+############################
+# Misc
+############################
+*.log

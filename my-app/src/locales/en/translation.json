@@ -1,0 +1,246 @@
+{
+  "nav": {
+    "home": "Home",
+    "farbrengens": "Farbrengens List",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Admin",
+    "profile": "Profile"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account? Sign up here",
+      "forgotPassword": "Forgot password?"
+    },
+    "register": {
+      "title": "Register",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "hasAccount": "Already have an account? Login here"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "emailLabel": "Email",
+      "codeLabel": "Verification Code",
+      "newPasswordLabel": "New Password",
+      "confirmPasswordLabel": "Confirm New Password",
+      "submit": "Submit",
+      "verify": "Verify Code",
+      "steps": {
+        "request": "Request Reset",
+        "verify": "Verify Code",
+        "reset": "Reset Password"
+      },
+      "errors": {
+        "שגיאה בשליחת בקשת איפוס": "Error sending reset request",
+        "קוד אימות שגוי": "Invalid verification code",
+        "הסיסמאות אינן תואמות": "Passwords do not match",
+        "שגיאה באיפוס הסיסמה": "Error resetting password"
+      }
+    }
+  },
+  "farbrengen": {
+    "types": {
+      "men": "Men",
+      "women": "Women",
+      "mixed": "Mixed",
+      "children": "Children",
+      "tmimim": "Tmimim",
+      "video": "Rebbes Farbrengen Broadcast"
+    },
+    "form": {
+      "title": "Title",
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "speaker": "Speaker",
+      "type": "Type",
+      "description": "Description",
+      "maxParticipants": "Maximum Participants",
+      "contactInfo": "Contact Information",
+      "submit": "Save",
+      "cancel": "Cancel"
+    },
+    "navigation": {
+      "title": "Navigate to Location",
+      "googleMaps": "Google Maps",
+      "waze": "Waze",
+      "appleMaps": "Apple Maps"
+    },
+    "bars": {
+      "title": "Nearby Liquor Stores",
+      "close": "Close"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Site Management",
+      "users": "Users",
+      "farbrengens": "Farbrengens",
+      "statistics": "Statistics"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About",
+      "about": "About Us",
+      "team": "Our Team",
+      "contact": "Contact Us",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "accessibility": "Accessibility"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "contact": "Contact Us"
+    },
+    "copyright": "All rights reserved to Umloh Ho'oretz Farbrengens"
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "whatAre": {
+      "title": "What are Cookies?",
+      "content": "Cookies are small text files stored on your computer when you visit a website"
+    },
+    "howWeUse": {
+      "title": "How We Use Cookies",
+      "content": "We use cookies to improve your user experience and provide personalized services"
+    },
+    "types": {
+      "title": "Types of Cookies",
+      "content": "We use essential, functional, and analytical cookies"
+    },
+    "control": {
+      "title": "Cookie Control",
+      "content": "You can control and delete cookies through your browser settings"
+    }
+  },
+  "accessibility": {
+    "title": "Accessibility Statement",
+    "commitment": {
+      "title": "Our Commitment",
+      "content": "We are committed to making our website accessible to all users"
+    },
+    "features": {
+      "contrast": "Color Contrast",
+      "contrastDesc": "Option to increase contrast",
+      "fontSize": "Text Size",
+      "fontSizeDesc": "Option to change text size",
+      "keyboard": "Keyboard Navigation",
+      "keyboardDesc": "Full keyboard navigation support",
+      "altText": "Alternative Text",
+      "altTextDesc": "Alternative text for all images"
+    },
+    "contact": {
+      "title": "Accessibility Contact",
+      "content": "If you encounter any accessibility issues, please contact us"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "q1": "What is a Farbrengen?",
+      "q2": "How can I create a Farbrengen?",
+      "q3": "Is there a fee to participate in a Farbrengen?",
+      "q4": "How can I find a nearby Farbrengen?",
+      "q5": "Can I modify or cancel a Farbrengen I created?"
+    },
+    "answers": {
+      "a1": "A Farbrengen is a Chassidic gathering...",
+      "a2": "To create a Farbrengen, you need to register and use the Farbrengen creation form",
+      "a3": "Participation in Farbrengens is usually free",
+      "a4": "You can find Farbrengens in your area using our search system",
+      "a5": "Yes, you can edit or cancel a Farbrengen you created through your profile"
+    }
+  },
+  "support": {
+    "title": "Support Center",
+    "subtitle": "How can we help?",
+    "channels": {
+      "email": "Email",
+      "emailDesc": "Send us an email and we'll respond within 24 hours",
+      "emailAction": "Send Email",
+      "phone": "Phone",
+      "phoneDesc": "Available Sun-Thu, 9:00-17:00",
+      "phoneAction": "Call Now",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Send a message and we'll get back to you soon",
+      "whatsappAction": "Send Message",
+      "chat": "Live Chat",
+      "chatDesc": "Talk to a support representative",
+      "chatAction": "Start Chat"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "info": {
+      "title": "Contact Information",
+      "address": "Admor HaTzemach Tzedek St. 6, Kfar Chabad",
+      "phone": "Phone: 0534277063",
+      "email": "Email: farbrengensapp@gmail.com"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Sun-Thu: 9:00-17:00",
+      "friday": "Fri: 9:00-13:00"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "subjects": {
+      "general": "General Inquiry",
+      "technical": "Technical Support",
+      "content": "Content and Information",
+      "suggestion": "Suggestion",
+      "bug": "Bug Report",
+      "other": "Other"
+    },
+    "success": "Your message has been sent successfully",
+    "error": "An error occurred while sending your message"
+  },
+
+    "home": {
+    "title": "Umloh Ho'oretz Farbrengens",
+    "subtitle": "Find and join Chassidic gatherings in Israel",
+    "searchPlaceholder": "Search by location, topic, or date...",
+    "addFarbrengen": "Add Farbrengen",
+    "upcomingFarbrengens": "Upcoming Farbrengens",
+    "viewDetails": "View Details",
+    "noUpcomingFarbrengens": "No upcoming Farbrengens",
+    "addFirstFarbrengen": "Add your first Farbrengen"
+  },
+  "errors": {
+    "loadingFarbrengens": "An error occurred while loading the Farbrengens"
+  },
+  "profile": {
+    "title": "My Profile",
+    "name": "Full Name",
+    "email": "Email",
+    "role": "Role",
+    "roles": {
+      "user": "User",
+      "admin": "Admin"
+    }
+  },
+  "app": {
+    "title": "Umloh Ho'oretz Farbrengens"
+  }
+}
